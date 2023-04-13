@@ -1,15 +1,15 @@
 # Quiz-game
 Quiz Game created using extended Java
-Quiz Application
+**Quiz Application**
 This is a simple quiz application built in Java programming language using JFrame Swing.
 
-Getting Started
+**Getting Started**
 To get started with the quiz application, clone the repository to your local machine and import the project into your preferred Java IDE.
 
-Prerequisites
+**Prerequisites**
 To run the quiz application, you must have the following installed on your local machine:
 
-Java Development Kit (JDK)
+**Java Development Kit (JDK)**
 Java IDE (e.g. Eclipse, IntelliJ IDEA, NetBeans)
 Installing
 Clone the repository to your local machine using the command below:
