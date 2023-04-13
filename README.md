@@ -15,7 +15,7 @@ To run the quiz application, you must have the following installed on your local
 3. Clone the repository to your local machine using the command below:
 bash<br>
 4. Copy code<br>
-5 .git clone https://github.com/<your-username>/Quiz-game.git<br>
+5 .git clone https://github.com/<your-username>Quiz-game.git<br>
 6. Import the project into your preferred Java IDE.
 
 Build and run the application.
